@@ -1,0 +1,52 @@
+
+
+
+
+.container{
+
+}
+
+.MuiPaper-rounded {
+    width: 80%;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.css-1sasres {
+    display: flex;
+    border: 1px solid;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.23);
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 8px;
+    padding-right: 8px;
+    align-items: center;
+    width: 60%;
+}
+.secondInput{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+    width: 30%;
+}
+[aria-label="File"] {
+    background-color: #ccc !important;
+    display: none !important;
+    visibility: hidden;
+}
+
+[aria-label="Channel"] {
+    background-color: #ccc !important;
+    display: none !important;
+    visibility: hidden;
+}
+
+[aria-label="Entered_date"] {
+    background-color: #ccc !important;
+    display: none !important;
+    visibility: hidden;
+}
